@@ -42,6 +42,8 @@
 	textarea {
 		margin-top: 0.5rem;
 		height: 5rem;
+		font-family: inherit;
+		font-size: inherit;
 	}
 	.btn-container {
 		display: flex;
